@@ -1,5 +1,5 @@
 # Purchase order System (WarehouseMS)
-All the source code of this project is automatically generated from our implemented toolsets
+All the source code of this project is automatically generated from our toolsets implemeted during my PhD
 ---
 
 An AspectJ project that weaves access control policies into the application code based on SQL.
